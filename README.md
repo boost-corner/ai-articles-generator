@@ -50,7 +50,7 @@ Example:
 You will need API keys for:
 - OpenAI ([`OPENAI_API_KEY`](https://platform.openai.com/api-keys))
 - Perplexity ([`PPLX_API_KEY`](https://www.perplexity.ai/settings/api))
-- (Optional) LangSmith for tracing ([`LANGSMITH_API_KEY`]((https://smith.langchain.com)))
+- (Optional) LangSmith for tracing ([`LANGSMITH_API_KEY`](https://smith.langchain.com))
 
 ## 💡 Use Cases
 
