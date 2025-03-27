@@ -1,4 +1,4 @@
-# 🧠 AI Blog Article Generator [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BoostCorner/ai-articles-generator/blob/main/articles_generator.ipynb)
+# 🧠 AI Blog Article Generator [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boost-corner/ai-articles-generator/blob/main/articles_generator.ipynb)
 
 This tutorial demonstrates how to build an AI-powered workflow for generating SEO-optimized blog articles using **LangChain**, **LangGraph**, **OpenAI**, and **Perplexity AI**.
 
